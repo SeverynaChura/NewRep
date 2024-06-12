@@ -4,3 +4,5 @@ Test new brunch creation
 Test new commit 
 Test new brunch
 Test again the new brunch
+
+New Test Vulnerabilities smoke
